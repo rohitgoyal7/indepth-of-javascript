@@ -1,2 +1,1 @@
-import a from './a'
-console.log(a);
+import some_var from './discussion_on_imports';
